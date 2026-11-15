@@ -180,7 +180,7 @@ A model has two licenses: one for the code and one for the weights. They are lis
 
 ## About this list
 
-- Source: the verified records of the [Mdexa database](https://mdexa.com); the open snapshot is [mdexa-ai/database](https://github.com/mdexa-ai/database). Each row links to its card, which carries the quoted evidence, the dates and the change log.
+- Source: the verified records of the [Mdexa database](https://mdexa.com); the open snapshot is [mdexa-ai/mdexa-ai-native-database](https://github.com/mdexa-ai/mdexa-ai-native-database). Each row links to its card, which carries the quoted evidence, the dates and the change log.
 - To add a dataset, see [CONTRIBUTING.md](CONTRIBUTING.md). Rows are generated, so pull requests that edit them are not merged by hand.
 - This list is published under CC BY 4.0 (see [LICENSE](LICENSE)). Each dataset and model keeps its own license.
 - Not legal advice: rows state what the sources say on the dates shown. Check the original source before use.

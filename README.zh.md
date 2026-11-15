@@ -180,7 +180,7 @@ Other languages: [English](README.md)
 
 ## 关于本清单
 
-- 来源：[Mdexa 数据库](https://mdexa.com) 的已核实记录；公开快照见 [mdexa-ai/database](https://github.com/mdexa-ai/database)。每行链接到对应信息卡，卡上有来源原文引用、日期和修改记录。
+- 来源：[Mdexa 数据库](https://mdexa.com) 的已核实记录；公开快照见 [mdexa-ai/mdexa-ai-native-database](https://github.com/mdexa-ai/mdexa-ai-native-database)。每行链接到对应信息卡，卡上有来源原文引用、日期和修改记录。
 - 要增加数据集，见 [CONTRIBUTING.md](CONTRIBUTING.md)。清单行由脚本生成，直接修改清单行的 pull request 不会被手工合并。
 - 本清单以 CC BY 4.0 发布（见 [LICENSE](LICENSE)）。各数据集与模型保留各自的许可。
 - 不构成法律意见：每行记录的是所示日期时各来源的说法，使用前请核对原始出处。
